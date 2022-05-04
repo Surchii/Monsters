@@ -2,7 +2,7 @@
   "name": "monters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Surchii.github.io/Monsters",
+  "homepage": "https://surchii.github.io/monsters",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
